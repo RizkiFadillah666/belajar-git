@@ -22,6 +22,6 @@ $mobil1 = new Mobil("avanza",500,100000000);
 
 echo $mobil1->detail();
 
-echo "ver 1.0.0";
+echo "ver 1.0.1";
 
 
